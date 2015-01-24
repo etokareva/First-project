@@ -1,0 +1,19 @@
+{
+  "name": "Katy",
+  "version": "0.0.0",
+  "keywords": [
+    "js",
+    "bower"
+  ],
+  "authors": [
+    "Katy"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
